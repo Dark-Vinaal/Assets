@@ -1,1 +1,11 @@
-# Stickers
+# Box Stickers
+
+
+---
+
+# Icon Stickers
+
+---
+
+# Logo Stickers
+
