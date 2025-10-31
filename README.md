@@ -78,7 +78,8 @@
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65">
-
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/gitlab-icon.svg" alt="GitLab" width="65" height="65" />
 </div>
 
 
