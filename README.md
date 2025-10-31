@@ -61,6 +61,16 @@
 
 # Logo Stickers
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</p>
+
 ---
 
 # Animated Logo Stickers
@@ -68,20 +78,20 @@
 <div style="display: flex; align-items: flex-start;">
 <!-- <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; animation: float 3s ease-in-out infinite;"> -->
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/gitlab-icon.svg" alt="GitLab" width="65" height="65" />
 </div>
-
-
-
-
+  
+</p>
+</div>
