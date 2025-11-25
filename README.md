@@ -1,3 +1,7 @@
+![ayu-mirage_repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ayu-mirage)
+
+![ayu-mirage](https://github-readme-stats.vercel.app/api?username=Dark-Vinaal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ayu-mirage)
+
 # Box Stickers
 
 
