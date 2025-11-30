@@ -2,6 +2,8 @@
 
 ![ayu-mirage](https://github-readme-stats.vercel.app/api?username=Dark-Vinaal&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ayu-mirage)
 
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=ambient_gradient&hide_border=false) 
+
 # Box Stickers
 
 
