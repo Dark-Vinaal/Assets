@@ -4,6 +4,32 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=ambient_gradient&hide_border=false) 
 
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=dark&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=light&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=blazing&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=midnight_purple&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=highcontrast&hide_border=false)
+
+![](https://nirzak-stats.vercel.app/api?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false)
+
+![](https://nirzak-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&layout=compact&theme=ambient_gradient&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=gold&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&ring=FFD700&fire=FFA500&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=E0E0E0&background=000000&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&ring=00FFFF&fire=00BFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=A8F6FF&background=000000&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&ring=FFA500&fire=FF4500&currStreakNum=FFA500&sideNums=FFA500&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFD9B3&background=000000&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&ring=BC00FF&fire=FFD700&currStreakNum=BC00FF&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=BC00FF&dates=E6D6FF&background=000000&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&ring=80E0FF&fire=00CFFF&currStreakNum=80E0FF&sideNums=80E0FF&currStreakLabel=80E0FF&sideLabels=80E0FF&dates=DFF8FF&background=000000&hide_border=false)
+
 # Box Stickers
 
 
