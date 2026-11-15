@@ -1,5 +1,6 @@
 ## Assets 
 
+- This repository is a personal collection of GIFs and SVGs gathered from various sources across the web for easy access and reference.
 - This repository contains some `SVGs`, `GIFs`, and other stuff that are useful for decorating your repo `Markdown` files.
 
 ---
