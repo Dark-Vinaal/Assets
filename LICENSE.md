@@ -1,4 +1,4 @@
-# Assets Collection
+## Assets Collection
 
 This repository is a personal collection of GIFs and SVGs gathered from various sources across the web for easy access and reference.
 
